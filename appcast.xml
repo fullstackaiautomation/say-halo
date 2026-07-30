@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Say Halo</title>
+        <item>
+            <title>0.8.6</title>
+            <pubDate>Thu, 30 Jul 2026 14:53:38 -0500</pubDate>
+            <link>https://github.com/fullstackaiautomation/say-halo-releases/releases/latest</link>
+            <sparkle:version>93</sparkle:version>
+            <sparkle:shortVersionString>0.8.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Say Halo 0.8.6
+
+Say Halo 0.8.6 moves updates to Say Halo-owned infrastructure and enables quiet automatic update
+checks and downloads through Sparkle.
+
+## Manual bridge installation
+
+Say Halo 0.8.5 and earlier still trust the inherited Hex update feed, so they cannot install this
+release automatically. Install 0.8.6 once by downloading the notarized ZIP from this release,
+quitting Say Halo, and replacing `/Applications/Say Halo.app` with the downloaded app.
+
+Your settings, models, transcription history, hotkeys, and macOS permission records are stored
+outside the application bundle and are not replaced.
+
+After 0.8.6 is installed, Say Halo checks its public Say Halo appcast automatically. Future updates
+can download quietly in the background and install when Say Halo quits or relaunches. The
+**Check for Updates** button remains available in Settings → About.
+
+## What changed
+
+- Replaced the inherited Hex feed and signing key with a Say Halo-specific Sparkle EdDSA key.
+- Moved notarized update assets and release notes to the public Say Halo release-only repository.
+- Enabled automatic checks and background downloads without system profiling.
+- Rebranded updater-facing About links for Say Halo.
+- Added a fail-closed local release publisher and automated feed/signature safety checks.
+]]></description>
+            <enclosure url="https://github.com/fullstackaiautomation/say-halo-releases/releases/download/v0.8.6/Say-Halo-0.8.6-build-93.zip" length="15125539" type="application/octet-stream" sparkle:edSignature="Cajy7oKjLHKr1MQW3okO6hpN92btYgYgaCxZtgsxZlf694dhd4UDV4qpw62rtXDhLvnJCIqNcaqJyrIQkzeBDg=="/>
+        </item>
+    </channel>
+</rss>
