@@ -3,6 +3,21 @@
     <channel>
         <title>Say Halo</title>
         <item>
+            <title>0.8.8</title>
+            <pubDate>Mon, 03 Aug 2026 10:43:41 -0500</pubDate>
+            <link>https://github.com/fullstackaiautomation/say-halo-releases/releases/latest</link>
+            <sparkle:version>95</sparkle:version>
+            <sparkle:shortVersionString>0.8.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Say Halo 0.8.8
+
+- Pauses active YouTube and browser playback while Say Halo records, then resumes the same app.
+- Prevents generic media commands from opening Apple Music or replaying short notification sounds.
+- Keeps the existing Pause Media setting and normal transcription workflow unchanged.
+]]></description>
+            <enclosure url="https://github.com/fullstackaiautomation/say-halo-releases/releases/download/v0.8.8/Say-Halo-0.8.8-build-95.zip" length="15168920" type="application/octet-stream" sparkle:edSignature="3pn46zpGW+OJw1cTcoAZgLXEC5CIhjHxxd0ZZODGIgzku2xvBeRsifpBhW2eezWdzUeg2tcn8WiRF2pJcphJAg=="/>
+        </item>
+        <item>
             <title>0.8.7</title>
             <pubDate>Sun, 02 Aug 2026 15:39:00 -0500</pubDate>
             <link>https://github.com/fullstackaiautomation/say-halo-releases/releases/latest</link>
