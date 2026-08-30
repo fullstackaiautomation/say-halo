@@ -3,6 +3,22 @@
     <channel>
         <title>Say Halo</title>
         <item>
+            <title>0.8.10</title>
+            <pubDate>Sun, 30 Aug 2026 14:14:33 -0500</pubDate>
+            <link>https://github.com/fullstackaiautomation/say-halo/releases/latest</link>
+            <sparkle:version>97</sparkle:version>
+            <sparkle:shortVersionString>0.8.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Say Halo 0.8.10
+
+- Keeps a lone spoken “one” written as a word in conversational phrases such as “one thing,”
+  “this one,” and “last one.”
+- Continues converting clear numeric phrases, including “twenty-one” → `21`, “one percent” →
+  `1%`, and “negative one” → `-1`.
+]]></description>
+            <enclosure url="https://github.com/fullstackaiautomation/say-halo/releases/download/v0.8.10/Say-Halo-0.8.10-build-97.zip" length="15240662" type="application/octet-stream" sparkle:edSignature="BM7VePX0CvtcptYAZdf29trWWzihJ3+zADDKGNJxQP2CcRUlWLki+1Tk4KLeuqRP626Ophd0M8HV8FIRR385Ag=="/>
+        </item>
+        <item>
             <title>0.8.9</title>
             <pubDate>Fri, 07 Aug 2026 12:43:37 -0500</pubDate>
             <link>https://github.com/fullstackaiautomation/say-halo/releases/latest</link>
