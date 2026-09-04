@@ -3,6 +3,22 @@
     <channel>
         <title>Say Halo</title>
         <item>
+            <title>0.8.11</title>
+            <pubDate>Thu, 03 Sep 2026 22:16:39 -0500</pubDate>
+            <link>https://github.com/fullstackaiautomation/say-halo/releases/latest</link>
+            <sparkle:version>98</sparkle:version>
+            <sparkle:shortVersionString>0.8.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Say Halo 0.8.11
+
+- Adds **Reset Microphone** to the menu-bar drop-down and Microphone Selection settings so a stale
+  or disconnected input can be recovered without quitting Say Halo.
+- Safely waits until an active recording stops before rebuilding the microphone connection, keeping
+  captured audio and the selected input intact.
+]]></description>
+            <enclosure url="https://github.com/fullstackaiautomation/say-halo/releases/download/v0.8.11/Say-Halo-0.8.11-build-98.zip" length="15256337" type="application/octet-stream" sparkle:edSignature="/Ej1S8UDrdr6ruY7ayZmczjeKufnoWhfUbMbMW6wOWB/MMXde7uyqcW435jFl90M6IasmpmC5fM+2vHZto49CA=="/>
+        </item>
+        <item>
             <title>0.8.10</title>
             <pubDate>Sun, 30 Aug 2026 14:14:33 -0500</pubDate>
             <link>https://github.com/fullstackaiautomation/say-halo/releases/latest</link>
