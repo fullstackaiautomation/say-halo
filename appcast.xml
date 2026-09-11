@@ -3,6 +3,25 @@
     <channel>
         <title>Say Halo</title>
         <item>
+            <title>0.8.12</title>
+            <pubDate>Fri, 11 Sep 2026 02:36:53 -0500</pubDate>
+            <link>https://github.com/fullstackaiautomation/say-halo/releases/latest</link>
+            <sparkle:version>99</sparkle:version>
+            <sparkle:shortVersionString>0.8.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Say Halo 0.8.12
+
+Recording feedback now lives in the macOS menu bar, freeing up your browser tabs and address bar.
+
+- See a white-and-blue live waveform and elapsed recording time in the menu bar.
+- Stop or cancel a recording directly from the Say Halo menu.
+- See quiet speech more clearly, with a steady capsule width and gentle transitions while processing.
+
+Your shortcuts, microphone selection, models, and personal settings stay the same.
+]]></description>
+            <enclosure url="https://github.com/fullstackaiautomation/say-halo/releases/download/v0.8.12/Say-Halo-0.8.12-build-99.zip" length="15255680" type="application/octet-stream" sparkle:edSignature="Y13PO+ceca+PCCwH1sl3Ozn9VzHFih1/NUtbRNZBMKKM3PzXUlf5rIUGUK9o2QLRHUpLCjlyB+tfjfhPo8VdCw=="/>
+        </item>
+        <item>
             <title>0.8.11</title>
             <pubDate>Thu, 03 Sep 2026 22:16:39 -0500</pubDate>
             <link>https://github.com/fullstackaiautomation/say-halo/releases/latest</link>
